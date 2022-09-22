@@ -8,7 +8,7 @@ Modelling equation 8 from 'Scaling up silicon photonic based accelerators: chall
 
 1) For a given bit width no_of_bits and Data rate (Gbps)
 2) Find the Photodetector sensitivity (dBm) from Eq 8
-3) Fix M and Find the N value such that 10dBm- PLaser(Eq 13) = Min Error. This gives the N value for a given Bitwidth and data rate for MAM
+3) Fix M and Find the N value such that 10dBm- PLaser(Eq 13) = Min Error. This gives the N value for a given Bitwidth and data rate for AMM
 """
 
 
